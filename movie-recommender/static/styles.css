@@ -1,0 +1,50 @@
+body {
+    font-family: Arial;
+    background: #0f0f0f;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: #e50914;
+    margin-top: 30px;
+}
+
+input {
+    padding: 12px;
+    width: 300px;
+    border-radius: 25px;
+    border: none;
+}
+
+button {
+    padding: 12px 20px;
+    border-radius: 25px;
+    border: none;
+    background-color: #e50914;
+    color: white;
+    cursor: pointer;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.card {
+    background: #1c1c1c;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 220px;
+    cursor: pointer;
+}
+
+.rating {
+    color: gold;
+}
+
+.genres {
+    font-size: 14px;
+    color: #ccc;
+}
